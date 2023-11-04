@@ -36,17 +36,9 @@ Start the server
 
 **Client:** React, Vite, TailwindCSS
 
-## Screenshot
+## Screenshots
 
 <img width="1794" alt="Screenshot 2023-11-04 at 02 00 16" src="https://github.com/emersonjds/dcash-wallet-admin/assets/12503997/a386c828-0b23-469f-945e-d9b783620abb">
-
-
-
-
-
-
-
-## Screenshots
 
 
 
