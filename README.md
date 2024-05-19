@@ -36,7 +36,6 @@ Start the server
 
 **Client:** React, Vite, TailwindCSS
 
-
 ## Screenshots
 
 
